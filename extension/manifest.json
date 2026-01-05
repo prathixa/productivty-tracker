@@ -1,0 +1,7 @@
+{
+  "manifest_version": 3,
+  "name": "Productivity Tracker",
+  "version": "1.0",
+  "permissions": ["tabs", "activeTab", "storage"],
+  "background": { "service_worker": "background.js" }
+}
