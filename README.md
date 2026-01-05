@@ -20,3 +20,4 @@ Frontend: React.js, Chart.js, Axios
 Backend: Node.js, Express.js
 
 Database: MongoDB
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/47b422d5-48d5-430e-b34a-f7fa9710fb5e" />
